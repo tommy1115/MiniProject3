@@ -40,6 +40,9 @@ class gomoku{
                 }
             }
         }
+        void StateValue(){
+            
+        }
 };
 
 
